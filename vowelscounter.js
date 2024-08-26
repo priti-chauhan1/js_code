@@ -214,6 +214,7 @@ console.log("sum = ",sum);
 let factorial = arr.reduce((previousval , CurrentVal) => {
   return previousval * CurrentVal;
   });
-  console.log("factorial = ",factorial);
+  console.log("factorial = ",factorial);4
+  console.log('bye');
   
 
