@@ -139,3 +139,5 @@ function itemsPurchased(storeItems, wallet) {
   return affordableItems.sort();
 }
  console.log(itemsPurchased(storeItems))
+
+console.log(true)
